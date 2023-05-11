@@ -1,0 +1,29 @@
+--------------DADOS PESSOAIS-----------------
+Gustavo Jorge
+Rua Exemplo, 1111, Nova Lima - MG
+(31) 3535-4444
+gustavo.jorge1207@gmail.com
+--------------HABILIDADES PESSOAIS-----------------
+Boa comunicação
+Postura de dono
+Trabalho em equipe
+--------------APTIDÕES PROFISSIONAIS-----------------
+JAVA
+CSS
+SQL
+ -------------------FORMAÇÕES----------------------
+
+Analise e Desenvolvimento de Sistemas
+Centro Universitario Newton Paiva
+2022 - 2024
+Técnico em Informatica
+UTRAMIG
+2018-2019
+ ---------------EXPERIENCIAS PROFISSIONAIS------------------
+
+VOKE
+Analista de Suporte de Sistemas - Jr
+2022 - ATUAL
+VOKE
+Técnico de Suporte
+2022 - 2022
